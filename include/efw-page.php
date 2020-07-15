@@ -267,4 +267,3 @@ if (! empty($result)) {
 
 </body>
 </html>
-?>
